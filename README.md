@@ -4,6 +4,7 @@
 ### 只需要向bot发送"诸葛神算"的关键字就可以发出结果，每日限定三次。
 ### 只测试过QQofficial和napcat平台，其他平台可能会有错误。本插件采用ai编写，如有bug，本人计算机小白，一概不知。
 ### napcat平台均无法艾特用户进行回复
-### 以下是其余两个我写的插件同样有napcat平台无法艾特用户回复的问题。
+### 以下是其余三个我写的插件同样有napcat平台无法艾特用户回复的问题。
 ### https://github.com/yuweitk/astrbot_plugin_64gua
 ### https://github.com/yuweitk/astrbot_plugin_zhanxing
+### https://github.com/yuweitk/astrbot_plugin_runes
